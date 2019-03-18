@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1386420876 source:e:\c project\railway\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 e:\c project\railway\conio2.h
+	<conio.h>
+	<windows.h>
+
+1528005894 source:e:\c project\railway\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"rlyres.h"
+
+1528006194 source:e:\c project\railway\rlyres.c
+	<stdio.h>
+	"conio2.h"
+	"rlyres.h"
+	<ctype.h>
+
+1528004773 e:\c project\railway\rlyres.h
+
+1386424476 source:f:\c programs\railway\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386344378 f:\c programs\railway\conio2.h
+	<conio.h>
+	<windows.h>
+
+1528009496 source:f:\c programs\railway\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"rlyres.h"
+
+1528008374 f:\c programs\railway\rlyres.h
+
+1528009796 source:f:\c programs\railway\rlyres.c
+	<stdio.h>
+	"conio2.h"
+	"rlyres.h"
+	<ctype.h>
+
+1386424476 source:f:\myproject\railway\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386344378 f:\myproject\railway\conio2.h
+	<conio.h>
+	<windows.h>
+
+1528009496 source:f:\myproject\railway\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"rlyres.h"
+
+1528008374 f:\myproject\railway\rlyres.h
+
+1531311324 source:f:\myproject\railway\rlyres.c
+	<stdio.h>
+	"conio2.h"
+	"rlyres.h"
+	<ctype.h>
+
